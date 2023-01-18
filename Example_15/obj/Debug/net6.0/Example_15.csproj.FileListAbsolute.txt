@@ -1,0 +1,15 @@
+D:\Git projects\Home_Work_2\Example_15\obj\Debug\net6.0\Example_15.csproj.AssemblyReference.cache
+D:\Git projects\Home_Work_2\Example_15\obj\Debug\net6.0\Example_15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git projects\Home_Work_2\Example_15\obj\Debug\net6.0\Example_15.AssemblyInfoInputs.cache
+D:\Git projects\Home_Work_2\Example_15\obj\Debug\net6.0\Example_15.AssemblyInfo.cs
+D:\Git projects\Home_Work_2\Example_15\obj\Debug\net6.0\Example_15.csproj.CoreCompileInputs.cache
+D:\Git projects\Home_Work_2\Example_15\bin\Debug\net6.0\Example_15.exe
+D:\Git projects\Home_Work_2\Example_15\bin\Debug\net6.0\Example_15.deps.json
+D:\Git projects\Home_Work_2\Example_15\bin\Debug\net6.0\Example_15.runtimeconfig.json
+D:\Git projects\Home_Work_2\Example_15\bin\Debug\net6.0\Example_15.dll
+D:\Git projects\Home_Work_2\Example_15\bin\Debug\net6.0\Example_15.pdb
+D:\Git projects\Home_Work_2\Example_15\obj\Debug\net6.0\Example_15.dll
+D:\Git projects\Home_Work_2\Example_15\obj\Debug\net6.0\refint\Example_15.dll
+D:\Git projects\Home_Work_2\Example_15\obj\Debug\net6.0\Example_15.pdb
+D:\Git projects\Home_Work_2\Example_15\obj\Debug\net6.0\Example_15.genruntimeconfig.cache
+D:\Git projects\Home_Work_2\Example_15\obj\Debug\net6.0\ref\Example_15.dll
